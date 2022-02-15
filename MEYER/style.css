@@ -1,0 +1,53 @@
+#headerTable{
+    width:100%;
+}
+.logo{
+    width: 85px;
+}
+nav{
+    margin-right: 16px;
+}
+a{
+    margin-right:16px ;
+    color: black;
+    text-decoration: none;
+}
+video{
+    width: 100%;
+}
+#mainTable{
+    width: 100%;
+}
+#userImage{
+    width: 500;
+}
+.BioBox{
+    text-align: left;   
+}
+.btn{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right:20px ;
+    background-color: aqua;
+    border-radius: 20px;
+    font-size: medium;
+}
+.footer{
+    background-color: aqua;
+} 
+li{
+      list-style: none;
+  }
+  body{
+      background-color: pink;
+  }
+  #headHeader{
+      text-align: right;
+  }
+  main{
+      height:100vh ;
+  }
+  
+  
+  
