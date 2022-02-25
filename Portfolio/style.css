@@ -1,0 +1,110 @@
+body{
+    background-color: lightgray;
+    color: #555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+    padding:0;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+header{
+    background-color: black;
+    color: azure;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom:rgb(27, 182, 27) 6px solid;
+}
+header a{
+    color:#ffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+header li{
+    float:left;
+    display: inline;
+    padding:0 20px 0 20px;
+    padding-inline-end: 10px;
+}
+header #branding{
+    float:left;
+}
+header #branding h1{
+    margin:0;
+}
+header nav{
+    float:right;
+    margin-top:-8px;
+  
+}
+header .highlight, header .current a{
+    color:rgb(40, 179, 40);
+    font-weight: bold;
+}
+header a:hover{
+    color:#cccccc;
+    font-weight: bold;
+}
+#headerTable{
+    width:100%;
+}
+nav{
+    margin-right: 16px;
+}
+a{
+    margin-right:16px ;
+    color: green;
+    text-decoration: none;
+}
+video{
+    width: 100%;
+}
+#mainTable{
+    width: 100%;
+}
+#userImage{
+    width: 710px;
+    padding-top: 30px;
+    margin-left: 350px;
+}
+.BioBox{
+    margin-left:150px;
+    width: 100%;
+    min-height: 400px;
+    background: url('images/into-codin.jpg') no-repeat 0 -400px;
+    text-align: center;   
+    color:#ffffff
+}
+.btn{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right:20px ;
+    background-color: green;
+    color: #fff;
+    border-radius: 20px;
+    font-size: medium;
+}
+.footer{
+    background-color: rgb(19, 20, 20);
+    color: green;
+    text-align: center;
+} 
+li{
+      list-style: none;
+  }
+  #headHeader{
+      text-align: right;
+  }
+  main{
+      height:100vh ;
+  }
+  #my form{
+      background-color: #cccccc;
+  }
+  
